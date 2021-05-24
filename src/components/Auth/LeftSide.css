@@ -1,0 +1,12 @@
+.left_side {
+    width: 500px;
+    margin-top: 150px;
+}
+
+.left_side img {
+    width: 700px;
+}
+
+.left_side h2 {
+    text-align: center;
+}
