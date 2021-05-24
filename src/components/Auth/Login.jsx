@@ -105,7 +105,7 @@ class Login extends React.Component {
                                 className={loading ? 'loading' : ''}
                                 variant="contained"
                                 onClick={this.handleSubmit}
-                                style={{ width: 430, background: "#ff3856", color: "#fff" }}
+                                style={{ width: 385, background: "#ff3856", color: "#fff" }}
                             >
                                 Sign In
                             </Button>
